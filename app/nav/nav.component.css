@@ -1,0 +1,17 @@
+.menu{
+    width: 200px;
+}
+.menu a{
+    background-color: darkcyan;
+    color: whitesmoke;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+.menu a:hover{
+    background-color: darkgoldenrod;
+    color: white;
+}
+.menu a.active{
+    color: lightyellow;
+}
